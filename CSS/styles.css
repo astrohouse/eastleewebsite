@@ -1,0 +1,128 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merryweather', sarif;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', sarif;
+    font-size: 6rem;
+    color: #66BFBF;
+}
+
+h2 {
+    margin-top: 0 auto 10 auto;
+    font-family: 'Montserrat', sarif;
+    font-size: 2rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+}
+
+p {
+   line-height: 2;
+}
+
+hr {
+ border: dotted #EAF6F6 6px;
+ border-bottom: none;
+ width: 4%;
+ margin: 100px auto;
+}
+.TopBin {
+    background-color: #C8F2EF;
+    position: relative;
+    padding-top: 10px;
+}
+
+.MidBin {
+    margin: 100px 0;
+}
+
+.BottomBin {
+
+}
+
+.top_cloud {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+.bottom_cloud {
+    position: absolute;
+    right: 500px;
+    top: 200px;
+}
+
+.skill-row {
+    width: 50%;
+    margin:60px auto 80px;
+    text-align: left;
+}
+
+.computer {
+    width: 20%;
+    height: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.fishing {
+    width: 20%;
+    height: 20%;
+    float: right;
+}
+
+.contact-me {
+    margin-top: 30px;
+}
+
+.contact-message {
+    width: 40%;
+    margin:40px auto 60px;
+}
+
+.intro{
+    width: 50%;
+    margin: auto;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #1198CB);
+  background-image: -moz-linear-gradient(top, #11CDD4, #1198CB);
+  background-image: -ms-linear-gradient(top, #11CDD4, #1198CB);
+  background-image: -o-linear-gradient(top, #11CDD4, #1198CB);
+  background-image: linear-gradient(to bottom, #11CDD4, #1198CB);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+.BottomBin {
+    background-color: #66BFBF;
+    padding: 20px 0 20px;
+    font-family: 'Montserrat', sans-serif;
+}
